@@ -1,0 +1,19 @@
+body{
+    max-width: 400px;
+    margin: 0 auto;
+    float: none;
+    background: #f8f8f8;
+}
+.form-padding{
+    padding-top: 50px;
+}
+.btn-place{
+    display: block;
+    margin: 0 auto;
+    min-width: 120px;
+    min-height: 30px;
+}
+input:focus{
+    background-color: #c8c8c8;
+    color: #ddeeee;
+}
